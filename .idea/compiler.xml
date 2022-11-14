@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Smart_Calculator.Smart_Calculator-task-build-classes-java.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task-build-classes-kotlin.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task-build-reports-tests.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task-build-test-results.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task-build-tmp.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task.main" target="11" />
+      <module name="Smart_Calculator.Topics-Quantifiers-Float_number_regex.main" target="11" />
+      <module name="Smart_Calculator.Topics-Quantifiers-OK_Computer.main" target="11" />
+      <module name="Smart_Calculator.Topics-Quantifiers-The_name_of_a_variable.main" target="11" />
+      <module name="Smart_Calculator.Topics-Quantifiers-Theory.main" target="11" />
+      <module name="Smart_Calculator.Topics-Regexps-Can_you.main" target="11" />
+      <module name="Smart_Calculator.Topics-Regexps-Creating_regexes.main" target="11" />
+      <module name="Smart_Calculator.Topics-Regexps-Different_colo_u_rs.main" target="11" />
+      <module name="Smart_Calculator.Topics-Regexps-Help_the_teacher.main" target="11" />
+      <module name="Smart_Calculator.Topics-Regexps-Theory.main" target="11" />
+      <module name="Smart_Calculator.Topics-Regexps_in_use-Aaaaaaa_to_a.main" target="11" />
+      <module name="Smart_Calculator.Topics-Regexps_in_use-Nickname_parser.main" target="11" />
+      <module name="Smart_Calculator.Topics-Regexps_in_use-Splitting_with_spaces.main" target="11" />
+      <module name="Smart_Calculator.Topics-Regexps_in_use-Theory.main" target="11" />
+      <module name="Smart_Calculator.Topics-Regexps_in_use-Web_colors.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_try-catch-finally_statement-Finalizing.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_try-catch-finally_statement-Parting_words.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_try-catch-finally_statement-The_finally_block.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_try-catch-finally_statement-Theory.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_try-catch-finally_statement-Using_as_expressions.main" target="11" />
+      <module name="Smart_Calculator.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

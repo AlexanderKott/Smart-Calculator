@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        val text = readln()
+        // write your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/19674#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 07 Nov 2022 15:49:27 UTC
+record: -1

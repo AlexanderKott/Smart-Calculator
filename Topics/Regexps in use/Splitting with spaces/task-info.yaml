@@ -1,0 +1,17 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        val string = readLine()!!
+        val n = readLine()!!.toInt()
+
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/14638#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 08 Nov 2022 10:25:02 UTC
+record: -1
